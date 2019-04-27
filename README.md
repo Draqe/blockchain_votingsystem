@@ -44,6 +44,7 @@ Note: If system does not work, try downgrading xampp to xampp-win32-1.8.2-6-VC9
   a.	Blockchain – will be provided an account (private key, public key, wallet address)
 2.	The administrator will validate the account.
   a.	Blockchain – will transfer 150 XEMs to account being validated.
+  b.  Note: admin account must be supplied with XEMs
 3.	The administrator will be able to update, delete, deactivate, activate an account.
 4.	The administrator will add candidates before activating the election.
 5.	After adding candidates, the election can now start by activating the election.
