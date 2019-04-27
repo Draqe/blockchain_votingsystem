@@ -35,30 +35,21 @@ Link: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/?fbclid
 3. Copy the “blockchain_votingsystem” folder to this path “C:\xampp\htdocs”
 4. Import the “database.sql” provided inside the folder “blockchain_votingsystem”. Open your browser and go to this link “http://localhost/phpmyadmin ”. Click Import to import the database.sql.
 5. Start running the system in your browser using this link “http://localhost/blockchain_votingsystem/ ”
-6. default admin account is *username: adminfa ; password: fa
+6. default admin account is *username: adminfa ; password: fa*
 
 Note: If system does not work, try downgrading xampp to xampp-win32-1.8.2-6-VC9
 
 ## System Flow
 1.	The voter or employee will create their account using the system.
-
-  a.	Blockchain – will be provided an account (private key, public key, wallet address)
-  
+* a.	Blockchain – will be provided an account (private key, public key, wallet address)
 2.	The administrator will validate the account.
-
-  a.	Blockchain – will transfer 150 XEMs to account being validated.
-  
-  b.  Note: admin account must be supplied with XEMs
-  
+* a.	Blockchain – will transfer 150 XEMs to account being validated.
+* b.  Note: admin account must be supplied with XEMs
 3.	The administrator will be able to update, delete, deactivate, activate an account.
 4.	The administrator will add candidates before activating the election.
 5.	After adding candidates, the election can now start by activating the election.
-
-  a.	Blockchain – will rent a root namespace randomly generated ex: fa1234name, defined mosaic – randomly generated ex: fa2345vote and mosaic supply is based on the total count of voters in the system, mosaic transfer – each voter will be given 1 mosaic for voting.
-
+* a.	Blockchain – will rent a root namespace randomly generated ex: fa1234name, defined mosaic – randomly generated ex: fa2345vote and mosaic supply is based on the total count of voters in the system, mosaic transfer – each voter will be given 1 mosaic for voting.
 6.	Voter will now be able to cast their vote for once only.
-  
-  a.	Blockchain – mosaic transfer – voter will send back the single mosaic to the administrator upon voting. 
-
+* a.	Blockchain – mosaic transfer – voter will send back the single mosaic to the administrator upon voting. 
 7.	After the voting, the administrator can now deactivate the election and check for the results (auto-generated into graph (who voted and did not vote)) and printable report (summary of the total vote: who vote and who did note vote in general and total votes per position and candidate).
 8.	The administrator will also be the one to appoint the winners using the system to be posted in the officer list.
