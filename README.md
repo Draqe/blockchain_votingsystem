@@ -29,8 +29,8 @@ One of the key roles that holds democracy together and allow it to function are 
 Link: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/?fbclid=IwAR3-8KkQeBVBqjHKqwNE1Q1Ok02q0OY3IlsxPmZ9kBlgh5v3g-NKZidTFzo
 2. Run XAMPP Control Panel and start Apache and MySQL
 3. Copy the “blockchain_votingsystem” folder to this path “C:\xampp\htdocs”
-4. Import the “database.sql” provided inside the folder “blockchain_votingsystem”. Open your browser and go to this link “http://localhost/phpmyadmin”. Click Import to import the database.sql.
-5. Start running the system in your browser using this link “http://localhost/blockchain_votingsystem/”
+4. Import the “database.sql” provided inside the folder “blockchain_votingsystem”. Open your browser and go to this link “http://localhost/phpmyadmin ”. Click Import to import the database.sql.
+5. Start running the system in your browser using this link “http://localhost/blockchain_votingsystem/ ”
 
 Note: If system does not work, try downgrading xampp to xampp-win32-1.8.2-6-VC9
 
