@@ -31,7 +31,7 @@ Link: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/?fbclid
 3. Copy the “blockchain_votingsystem” folder to this path “C:\xampp\htdocs”
 4. Import the “database.sql” provided inside the folder “blockchain_votingsystem”. Open your browser and go to this link “http://localhost/phpmyadmin ”. Click Import to import the database.sql.
 5. Start running the system in your browser using this link “http://localhost/blockchain_votingsystem/ ”
-
+6. default admin account is *username:adminfa password:fa*
 Note: If system does not work, try downgrading xampp to xampp-win32-1.8.2-6-VC9
 
 ## System Flow
