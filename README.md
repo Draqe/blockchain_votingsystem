@@ -32,6 +32,8 @@ Link: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/?fbclid
 4. Import the “database.sql” provided inside the folder “blockchain_votingsystem”. Open your browser and go to this link “http://localhost/phpmyadmin”. Click Import to import the database.sql.
 5. Start running the system in your browser using this link “http://localhost/blockchain_votingsystem/”
 
+Note: If system does not work, try downgrading xampp to xampp-win32-1.8.2-6-VC9
+
 ## System Flow
 1.	The voter or employee will create their account using the system.
   a.	Blockchain – will be provided an account (private key, public key, wallet address)
