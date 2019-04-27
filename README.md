@@ -8,12 +8,16 @@ Submitted by Jay-Arr Catibayan Buhain and Don Richson Que
 
 ### BLOCKCHAIN-BASED VOTING SYSTEM FOR CAVITE STATE UNIVERSITY FACULTY ASSOCIATIONS
 The CVSU FACULTY ASSOCIATIONS, a legitimate public sector labor organization with DOLE-CSC Registration Certificate No. 1779 dated 06 September 2010 with the office address at Cavite State University, Indang, Cavite, represented by its President, JOCELYN L. REYES, hereinafter reffered to as the ASSOCIATION.
+
 One of the key roles that holds democracy together and allow it to function are elections. Election plays an important role in a democratic society especially here in the Philippines in particular with student organizations in a Universities that is why enhancement of the existing voting systems efficiency with blockchain’s availability, immutability, security, transparency and elimination of intermediaries’ properties are needed in order to remove issues to trust and privacy.
 
 ### Features & Functions of the System. 
 •	Verifiability – the system will ensure that all votes are counted correctly.
+
 •	Accuracy-votes must be accurate where votes will be counted and can’t be removed, altered or duplicated.
+
 •	Authentication-only people who are registered can cast a vote during the election 
+
 •	Anonymity-voters will remain anonymous during and after the election with no link or connection to their ballots and other voter’s information.
 
 ## Minimum required machine specifications 
