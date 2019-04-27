@@ -1,5 +1,5 @@
 # blockchain_votingsystem
-# CS89 Final Project
+# CS189 Final Project
 Submitted by Jay-Arr Catibayan Buhain and Don Richson Que
 
 ## Description
