@@ -19,7 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `voting_system`
 --
-
+CREATE DATABASE voting_system;
+USE voting_system;
 -- --------------------------------------------------------
 
 --
