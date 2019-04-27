@@ -1,0 +1,158 @@
+#mainWrapper {
+	margin-top:2%; 
+	height:auto;
+	padding-bottom:2%;
+}
+
+#mainbody {
+	width:75%; 
+	height:auto; 
+	overflow:hidden;
+	margin-top:-3px;
+}
+
+#menutag {
+	float:left; 
+	width:25%; 
+	margin-left:-5%;
+	margin-top:-1%; 
+	background-color:#F3F3F3; 
+	border-right:1px solid #CCC;
+	height:auto;
+}
+
+#maincontent {
+	margin-left:-1px;
+	border-left:1px solid #CCC;
+	float:left; 
+	width:80%; 
+	padding:4%;
+	height:auto;
+}
+
+h1, h2 {
+	text-shadow:2px 2px 2px #999
+}
+
+h3 {
+	text-shadow:1px 1px 2px #999; 
+	margin-left:4%
+}
+
+p {
+	text-indent:10%; 
+	text-align:left
+}
+
+.well {
+	box-shadow:0px 2px 2px #333
+}
+
+#disableLink {
+	margin-left:7.5%;
+	font-weight:bold;
+	font-size:16px;
+	color:#999;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#menu {
+	font-weight:bold;
+	font-size:16px
+}
+
+#footer{
+	padding-top:0.5%;
+	padding-bottom:0.5%;
+	width:75%; 
+	background:#020; 
+	color:#FFF;
+	border-bottom-left-radius:1mm;
+	border-bottom-right-radius:1mm;
+}
+#headermenu {
+	width:75%;
+	background:#151515;
+	padding-top:1%;
+}
+
+#tblmenu td {
+	vertical-align:bottom;
+	text-align:center;
+	font-size:17px;
+}
+
+#tblmenu td a:link {
+	color:#FFF;
+	text-decoration:none;
+	padding-top:2%;
+}
+
+#tblmenu a:visited {
+	text-decoration: none;
+	color: #fff;
+}
+#tblmenu a:hover {
+	text-decoration: none;
+	color: #ccc;
+	border-top-left-radius:1mm;
+	border-top-right-radius:1mm;
+}
+#tblmenu a:active {
+	text-decoration: none;
+	color:#151515;
+}
+
+#tablehead {
+	background-color:#666;
+	color:#FFF;
+}
+
+#tablehead th {
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-left:1px solid #CCC;
+}
+
+#tablecontent td{
+	text-align:center;
+	vertical-align: middle;
+}
+
+#signal {
+	font-size:30px;
+	text-shadow:2px 2px 2px #ccc;
+	font-weight:bold;
+}
+
+.memberlist {
+	font-size:13px;
+}
+
+#memberlistcontent {
+	text-align:center;
+	font-size:14px;
+}
+
+#tablelog {
+	color:#fff;
+}
+
+#tablelog td{
+	vertical-align: middle;
+	padding-top:2%;
+
+}
+
+#headerlog {
+	width:75%; 
+	background:#020;
+	border-top-left-radius:2mm; 
+	border-top-right-radius:2mm;
+	padding-bottom:4px;
+	font-size:16px;
+	padding-right:1%;
+}
+
